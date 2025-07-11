@@ -246,10 +246,11 @@
       font-size: 18px;
       padding: 8px 16px;
       transition: background-color 0.3s;
+      font-family: 'Times New Roman', Times, serif;
     }
 
     .nav-items-footer li a:hover {
-      background-color: rgba(255, 255, 255, 0.2);
+      color: #4E47FF;
       border-radius: 5px;
     }
 
